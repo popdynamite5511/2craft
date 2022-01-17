@@ -4,3 +4,4 @@ A 2d version of Minecraft currently in development. Made with Python by me a few
 I'm gonna occaisonally add things to this when I feel like it. I'm making this for fun, I know it's bad right now but I'm gonna update it somewhat frequently until it's actually a good game
 that people want to play.
 
+Join my discord for help https://discord.gg/weX9e4v3Pa

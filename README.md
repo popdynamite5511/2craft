@@ -7,5 +7,3 @@ This is a 2d version of Minecraft that I'm still making and updating occasionall
 If you don't know how to run the game, check the README.txt file inside the game's folder after downloading the newest version from the Releases.
 
 For a bit of a challenge, I'm currently making this game without any Python addons, just to see how far I can push the built in Python features.
-
-Join my discord for help, or if you want to suggest things that I could add to this game. https://discord.gg/weX9e4v3Pa
